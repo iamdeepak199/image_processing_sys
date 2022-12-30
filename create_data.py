@@ -1,4 +1,4 @@
-# Creating database
+
 # It captures images and stores them in datasets
 # folder under the folder name of sub_data
 import cv2,sys,numpy,os
